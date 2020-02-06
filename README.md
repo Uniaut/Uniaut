@@ -3,7 +3,7 @@
 ## Profile
 
 * **Sophomore** in Computer Science & Engineering
-* Military Service Status : *Unfulfilled (2020.04 ~ 2022.10)*
+* Military Service Status : *Unfulfilled (2020.04 ~ 2021.10)*
 
 
 ## Interests
