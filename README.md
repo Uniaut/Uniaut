@@ -2,7 +2,8 @@
 
 ## Profile
 
-* **Sophomore** in Computer Science & Engineering
+* Education: [Dongguk University](http://www.dongguk.ac.kr/)
+  * **Sophomore** in Computer Science & Engineering
 * Military Service Status : **Fulfilled (2020.04 ~ 2021.10)**
 
 
