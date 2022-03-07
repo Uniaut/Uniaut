@@ -9,8 +9,7 @@
 
 ## Interests
 * Machine Learning
-* Computer vision
-* Reinforcement Learning
+* Data Science
 
 ### Programming Language
 * C/C++
