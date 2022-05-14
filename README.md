@@ -3,7 +3,7 @@
 ## Profile
 
 * Education: [Dongguk University](http://www.dongguk.ac.kr/)
-  * **Sophomore** in Computer Science & Engineering
+  * **Junior** in Computer Science & Engineering
 * Obligatory Military Service Status : **Fulfilled (2020.04 ~ 2021.10)**
 
 
