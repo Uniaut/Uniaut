@@ -9,7 +9,7 @@
 
 ## Interests
 * Machine Learning
-* Data Science
+* Backend
 
 ### Programming Language
 * C/C++
