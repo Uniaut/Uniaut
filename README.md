@@ -3,17 +3,17 @@
 ## Profile
 
 * Education: [Dongguk University](http://www.dongguk.ac.kr/)
-  * **Junior** in Computer Science & Engineering
+  * **Senior** in Computer Science & Engineering
 * Obligatory Military Service Status : **Fulfilled (2020.04 ~ 2021.10)**
 
 
 ## Interests
-* Machine Learning
 * Backend
+* Machine Learning
 
 ### Programming Language
-* C/C++
 * Python
+* Javascript
 
 ### Productive Application
 * Notion
