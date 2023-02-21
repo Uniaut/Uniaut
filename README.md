@@ -24,5 +24,5 @@
 
 * **Python**
 * **Chatbot**
-* **Web-crawling**
+* **Web-scraping**
 
