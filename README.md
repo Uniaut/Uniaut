@@ -1,6 +1,13 @@
 # About-me
 
+Hi, my name is Geonwoo Choi (aka Uniaut).
+
+I am currently working as a Software Engineer in Samsung Electronics DX.
+
+Feel free to contact me via kunwoo0927@gmail.com
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kunwoo0927)](https://solved.ac/profile/kunwoo0927)
+
 
 ## Profile
 
@@ -8,18 +15,14 @@
   * **Graduated** as Bachelor of Science in Computer Science & Engineering
 * Obligatory Military Service Status : **Fulfilled (2020.04 ~ 2021.10)**
 
+## Career
+
+* Samsung Electronics DX as **Software Engineer (2024.07 ~ Now)**
 
 ## Interests
 * Backend
 * Machine Learning
 
-### Programming Language
-* Python
-* Java
-* Javascript
-
-### Productive Application
-* Notion
 
 ## Personal Projects
 ### Overwatch Stat Bot (Discord Chatbot) / Archived
